@@ -50,6 +50,7 @@ Each model was trained, evaluated using classification metrics, and analyzed for
 
 - `COMP_4353_Final.ipynb` — Full project notebook with all code and outputs
 - `COMP_4353_Final_Script_Log.pdf` - Full project notebook with all code and outputs exported as a .PDF file for easy viewing
+- `COMP_4353_Final_Project_Report.pdf` - Detailed Project Report with model outcome breakdowns and other details
 - `fraud_detection_processed.csv` — Cleaned and preprocessed dataset 
 - `README.md` — Project summary
 
